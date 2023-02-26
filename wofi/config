@@ -1,0 +1,8 @@
+insensitive=true
+style=style.css
+gtk_dark=true
+columns=3
+allow_images=true
+term=terminator
+no_actions=true
+image_size=24
