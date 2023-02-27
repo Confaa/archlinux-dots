@@ -6,3 +6,4 @@ allow_images=true
 term=terminator
 no_actions=true
 image_size=24
+sort_order=alphabetical
